@@ -2,18 +2,15 @@
 const nextConfig = {
   images: {
     domains: [
-      'api.dicebear.com',
-      'images.unsplash.com', // Common image hosting
-      'source.unsplash.com', // Common image hosting
-      'picsum.photos',      // For placeholder images
-      'i.pravatar.cc',      // For avatar placeholders
-      'localhost',          // For local development
-      '127.0.0.1',         // For local development
+      "api.dicebear.com",
+      "images.unsplash.com",
+      "source.unsplash.com",
+      "picsum.photos",
+      "i.pravatar.cc"
     ],
-    formats: ['image/avif', 'image/webp'],
-    minimumCacheTTL: 60, // 1 minute cache for external images
-  },
-  // Add other Next.js config options here if needed
+    formats: ["image/avif", "image/webp"],
+    minimumCacheTTL: 60
+  }
 };
 
-module.exports = {nextConfig};
+module.exports = nextConfig;
