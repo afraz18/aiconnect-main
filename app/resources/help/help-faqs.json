@@ -1,0 +1,58 @@
+[
+  {
+    "id": "getting-started-1",
+    "category": "Getting Started",
+    "question": "How do I create an account?",
+    "answer": "You can create an account by clicking the 'Sign Up' button in the top-right corner. You'll need to provide your email address and create a password, or sign up using your Google or Microsoft account.",
+    "tags": ["account", "signup", "authentication"]
+  },
+  {
+    "id": "getting-started-2",
+    "category": "Getting Started",
+    "question": "How do I join a meeting?",
+    "answer": "To join a meeting, click the 'Join Meeting' button and enter the meeting ID or click on a meeting link you received. Make sure your microphone and camera are properly set up before joining.",
+    "tags": ["meeting", "join", "participate"]
+  },
+  {
+    "id": "audio-video-1",
+    "category": "Audio & Video",
+    "question": "My microphone isn't working. What should I do?",
+    "answer": "First, check if your microphone is properly connected and selected in your device settings. Then, ensure that AIConnect has permission to access your microphone. You can test your microphone in the audio settings before joining a meeting.",
+    "tags": ["microphone", "audio", "troubleshooting"]
+  },
+  {
+    "id": "screen-sharing-1",
+    "category": "Screen Sharing",
+    "question": "How do I share my screen?",
+    "answer": "During a meeting, click the 'Share Screen' button in the meeting controls. You can choose to share your entire screen, a specific application window, or just a browser tab.",
+    "tags": ["screen share", "presentation", "sharing"]
+  },
+  {
+    "id": "security-1",
+    "category": "Security",
+    "question": "How do I secure my meeting?",
+    "answer": "You can secure your meeting by enabling the waiting room, requiring a meeting password, and using the 'Lock Meeting' feature once all expected participants have joined.",
+    "tags": ["security", "meeting", "privacy"]
+  },
+  {
+    "id": "recording-1",
+    "category": "Recording",
+    "question": "How do I record a meeting?",
+    "answer": "As the host, click the 'Record' button in the meeting controls. All participants will be notified that the meeting is being recorded. The recording will be saved to your account after the meeting ends.",
+    "tags": ["recording", "meeting", "host"]
+  },
+  {
+    "id": "troubleshooting-1",
+    "category": "Troubleshooting",
+    "question": "I can't hear other participants. What should I do?",
+    "answer": "First, check your speaker/headphone connection and volume. Then, ensure the correct audio output device is selected in the meeting audio settings. You can also try leaving and rejoining the meeting.",
+    "tags": ["audio", "troubleshooting", "participants"]
+  },
+  {
+    "id": "account-1",
+    "category": "Account & SSO",
+    "question": "How do I change my display name?",
+    "answer": "You can change your display name by going to your account settings. Click on your profile picture in the top-right corner, select 'Profile', and then click 'Edit' next to your name.",
+    "tags": ["account", "profile", "settings"]
+  }
+]
